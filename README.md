@@ -5,11 +5,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mr-liuzhenming&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
-<div align="center">
+<div>
   <p>在校初二学生</p>
   <p>CSDN平台Python领域优质创作者</p>
   <p>心力算法作者</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-liuzhenming&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-liuzhenming&theme=dark" />
+</div>
 </div>
 <br><br>
 <div align="center">
