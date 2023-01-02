@@ -25,6 +25,6 @@
 </p>
 </div>
 <br><br>
-<div align="left">
+<div align="right">
   <img  src="https://github-profile-trophy.vercel.app/?username=Mr-liuzhenming&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
