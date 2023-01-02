@@ -1,11 +1,20 @@
+<!--  height="137px"  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+World!;祝您今天访问愉快！" alt="Typing SVG" /></a>
 </h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mr-liuzhenming&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
+<div>
+  <p>在校初二学生</p>
+  <p>CSDN平台Python领域优质创作者</p>
+  <p>心力算法作者</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-liuzhenming&theme=dark" />
+</div>
+<br><br>
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-liuzhenming&theme=dark" />
+  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-liuzhenming&theme=dark" />
 </div>
