@@ -17,7 +17,7 @@
   <p>💻心力算法作者</p>
   <p>✒️CSDN平台Python领域优质创作者</p>
   <br><h1></h1><br>
-  <p>我的Github代码仓中编程语言占比&活跃指数</p>
+  <p>我的Github代码仓中编程语言占比</p>
   <br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-liuzhenming&theme=dark" />
 </div>
