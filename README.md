@@ -17,16 +17,12 @@
   <p>💻心力算法作者</p>
   <p>✒️CSDN平台Python领域优质创作者</p>
   <br><h1></h1><br>
-  <p>我的Github代码仓中编程语言占比</p>
-  <br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-liuzhenming&theme=dark" />
 </div>
 <br><br>
 <div align="center">
-  <p>我在Github的活跃指数&账号评估</p>
+  <p>我在Github的活跃指数</p>
   <br>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-liuzhenming&theme=dark" /><br><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-liuzhenming&theme=dark" />
 </div>
 <br><br>
 <div align="center">
